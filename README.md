@@ -19,19 +19,19 @@
 
   
 <a href="https://github.com/josejailson/customer-churn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
   
 <a href="https://github.com/josejailson/hugging_face">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=RealStateAnalysis&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=hugging_face&theme=dracula" />
 </a>
   
 <a href="https://github.com/josejailson/opticsCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=hugging_face&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/fastapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=NoSQLSentimentAnalysis&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
   
   
