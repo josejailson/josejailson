@@ -11,6 +11,33 @@
  
 
 ---
+
+ <div>
+  
+### Checkout some of my latest projects
+  
+
+  
+<a href="https://github.com/micheldearaujo/DeforestationDetector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
+</a>
+  
+<a href="https://github.com/micheldearaujo/RealStateAnalysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=RealStateAnalysis&theme=dracula" />
+</a>
+  
+<a href="https://github.com/micheldearaujo/ExploringCovid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
+</a>
+
+<a href="https://github.com/micheldearaujo/NoSQLSentimentAnalysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=NoSQLSentimentAnalysis&theme=dracula" />
+</a>
+  
+  
+  </div>
+
+---
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
