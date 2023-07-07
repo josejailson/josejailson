@@ -27,7 +27,7 @@
 </a>
   
 <a href="https://github.com/josejailson/opticsCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=hugging_face&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/fastapi">
