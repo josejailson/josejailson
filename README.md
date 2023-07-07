@@ -7,7 +7,7 @@
  - 🔭 I am currently engaged in academic research involving machine learning applications in neuroscience, crystallographic materials design, and laser optics.
  - 🔎 I’m always looking to collaborate with other researchers and expand my networking, as well as learn as much as possible on various topics.
  - 🖥️ My current goal is to prepare myself for a job as a Data Scientist involving web scraping, machine learning engineering, API development, and dataOps frameworks.
- - 📖 I have a particular interest in NLP, computer vision and graph neural networks.
+ - 📖 I have a particular interest in NLP, computer vision, graph neural networks and time series analysis.
  
 
 ---
