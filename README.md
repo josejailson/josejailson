@@ -18,19 +18,19 @@
   
 
   
-<a href="https://github.com/micheldearaujo/DeforestationDetector">
+<a href="https://github.com/josejailson/customer-churn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=DeforestationDetector&theme=dracula" />
 </a>
   
-<a href="https://github.com/micheldearaujo/RealStateAnalysis">
+<a href="https://github.com/josejailson/hugging_face">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=RealStateAnalysis&theme=dracula" />
 </a>
   
-<a href="https://github.com/micheldearaujo/ExploringCovid">
+<a href="https://github.com/josejailson/opticsCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=ExploringCovid&theme=dracula" />
 </a>
 
-<a href="https://github.com/micheldearaujo/NoSQLSentimentAnalysis">
+<a href="https://github.com/josejailson/fastapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=micheldearaujo&repo=NoSQLSentimentAnalysis&theme=dracula" />
 </a>
   
