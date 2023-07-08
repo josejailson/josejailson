@@ -23,7 +23,7 @@
 </a>
   
 <a href="https://github.com/josejailson/hugging_face">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=hugging_face&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
 </a>
   
 <a href="https://github.com/josejailson/opticsCNN">
@@ -32,6 +32,18 @@
 
 <a href="https://github.com/josejailson/fastapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
+</a>
+
+<a href="https://github.com/josejailson/fastapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
+</a>
+
+<a href="https://github.com/josejailson/fastapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
+</a>
+
+<a href="https://github.com/josejailson/fastapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
 </a>
   
   
