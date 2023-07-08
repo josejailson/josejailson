@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
   
-<a href="https://github.com/josejailson/hugging_face">
+<a href="https://github.com/josejailson/distilBERT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
 </a>
   
@@ -34,19 +34,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/fastapi">
+<a href="https://github.com/josejailson/credit_risk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/fastapi">
+<a href="https://github.com/josejailson/timeseries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/fastapi">
+<a href="https://github.com/josejailson/charRNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/fastapi">
+<a href="https://github.com/josejailson/cartpole">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
 </a>
   
