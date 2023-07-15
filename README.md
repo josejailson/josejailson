@@ -17,7 +17,10 @@
 ### Checkout some of my latest projects
   
 
-  
+<a href="https://github.com/josejailson/HumanResource">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
+</a>  
+
 <a href="https://github.com/josejailson/customer-churn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
