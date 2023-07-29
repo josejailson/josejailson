@@ -53,8 +53,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
 </a>
 
-<a href=" https://github.com/josejailson/PowerBIe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
+<a href=" https://github.com/josejailson/PowerBI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
  
   </div>
