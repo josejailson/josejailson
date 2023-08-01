@@ -4,9 +4,8 @@
 
 ---
 
- - 🔭 I am currently engaged in academic research involving machine learning applications in neuroscience, crystallographic materials design, and laser optics.
+ - 🔭 I am currently engaged in academic research involving machine learning applications in neuroscience, crystallographic materials design, superconductivity and laser optics.
  - 🔎 I’m always looking to collaborate with other researchers and expand my networking, as well as learn as much as possible on various topics.
- - 🖥️ My current goal is to prepare myself for a job as a Data Scientist involving web scraping, machine learning engineering, API development, and dataOps frameworks.
  - 📖 I have a particular interest in NLP, computer vision, graph neural networks and time series analysis.
  
 
@@ -15,7 +14,20 @@
  <div>
   
 ### Checkout some of my latest projects
+
   
+#### MLOps
+  
+<a href="https://github.com/josejailson/distilBERT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
+</a>
+
+<a href="https://github.com/josejailson/fastapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
+</a>
+
+  
+#### Data analytics
 
 <a href="https://github.com/josejailson/HumanResource">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
@@ -24,22 +36,17 @@
 <a href="https://github.com/josejailson/customer-churn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
-  
-<a href="https://github.com/josejailson/distilBERT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
-</a>
-  
-<a href="https://github.com/josejailson/opticsCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
-</a>
-
-<a href="https://github.com/josejailson/fastapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
-</a>
 
 <a href="https://github.com/josejailson/credit_risk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
+
+<a href="https://github.com/josejailson/PowerBI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
+</a>
+
+
+#### Deep learning
 
 <a href="https://github.com/josejailson/timeseries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
@@ -53,9 +60,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/PowerBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
+
+### Academic projects
+
+<a href="https://github.com/josejailson/opticsCNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
 </a>
+
  
   </div>
 
@@ -63,11 +74,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff) 
-![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 ![SQL](https://img.shields.io/badge/-SQL-5586A4?&logo=databricks&logoColor=white)
-![Wolfram](https://img.shields.io/badge/-Wolfram_Language-DD1100?&logo=Wolfram-Language&Color=DD1100)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=Plastic&logo=latex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)  
 
 
@@ -87,17 +94,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=fff)
 ![mongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&logoColor=white)
 
-
-
-
-
-### IDE's/Editors
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=Plastic&logo=visual-studio&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=Plastic&logo=spyder%20ide&logoColor=maroon)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-orange?style=Plastic&logo=jupyter&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Google_Colab-%23575757.svg?style=Plastic&logo=Google-Colab&logoColor=#F9AB00)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=Plastic&logo=Overleaf&logoColor=white)
 
 
 ## Find me
