@@ -11,7 +11,7 @@
 
 ---
 
-<div>
+<div style="display: flex;">
   
 ## Checkout some of my latest projects
 
