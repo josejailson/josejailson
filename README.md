@@ -18,53 +18,53 @@
   
 ## MLOps
   
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/distilBERT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
+<a href="https://github.com/josejailson/distilBERT">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
 </a>
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/fastapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
+<a href="https://github.com/josejailson/fastapi">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
 
   
 ## Data analytics
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/HumanResource">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
+<a href="https://github.com/josejailson/HumanResource">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
 </a>  
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/customer-churn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
+<a href="https://github.com/josejailson/customer-churn">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/credit_risk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
+<a href="https://github.com/josejailson/credit_risk">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/PowerBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
+<a href="https://github.com/josejailson/PowerBI">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
 
 
 ## Deep learning
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/timeseries">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
+<a href="https://github.com/josejailson/timeseries">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
 </a>
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/charRNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
+<a href="https://github.com/josejailson/charRNN">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
 </a>
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/cartpole">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
+<a href="https://github.com/josejailson/cartpole">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
 </a>
 
 
 ## Academic projects
 
-<a style="width: 200px; padding: 10px;" href="https://github.com/josejailson/opticsCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
+<a href="https://github.com/josejailson/opticsCNN">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
 </a>
 
  
