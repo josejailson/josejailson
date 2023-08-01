@@ -26,6 +26,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
 
+<a href="https://github.com/josejailson/WindFarm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=WindFarm&theme=dracula" />
+</a>
+
   
 ## Data analytics
 
