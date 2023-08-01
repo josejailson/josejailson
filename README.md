@@ -28,7 +28,7 @@
 
   
 ## Data analytics
-
+<div>
 <a href="https://github.com/josejailson/HumanResource">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
 </a>  
@@ -36,7 +36,8 @@
 <a href="https://github.com/josejailson/customer-churn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
-
+</div>
+<div>
 <a href="https://github.com/josejailson/credit_risk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
@@ -44,7 +45,7 @@
 <a href="https://github.com/josejailson/PowerBI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
-
+</div>
 
 ## Deep learning
 
