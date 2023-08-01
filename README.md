@@ -19,7 +19,7 @@
 ## MLOps
   
 <a href="https://github.com/josejailson/distilBERT">
-  <img align="center" height="150px" width="20px" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
+  <img align="center" height="150px" width="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/fastapi">
