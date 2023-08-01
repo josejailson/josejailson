@@ -1,3 +1,4 @@
+<html>
 ### Hi there, 👋
 
 ### My name is José Jailson, I’m a physicist passionate about data science. 
@@ -108,3 +109,4 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
+</html>
