@@ -18,53 +18,51 @@
   
 ## MLOps
   
-<a href="https://github.com/josejailson/distilBERT">
+<a style="flex: 1;" href="https://github.com/josejailson/distilBERT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/fastapi">
+<a style="flex: 1;" href="https://github.com/josejailson/fastapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
 
   
 ## Data analytics
-<div>
-<a href="https://github.com/josejailson/HumanResource">
+
+<a style="flex: 1;" href="https://github.com/josejailson/HumanResource">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
 </a>  
 
-<a href="https://github.com/josejailson/customer-churn">
+<a style="flex: 1;" href="https://github.com/josejailson/customer-churn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
-</div>
-<div>
-<a href="https://github.com/josejailson/credit_risk">
+
+<a style="flex: 1;" href="https://github.com/josejailson/credit_risk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/PowerBI">
+<a style="flex: 1;" href="https://github.com/josejailson/PowerBI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
-</div>
 
 ## Deep learning
 
-<a href="https://github.com/josejailson/timeseries">
+<a style="flex: 1;" href="https://github.com/josejailson/timeseries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/charRNN">
+<a style="flex: 1;" href="https://github.com/josejailson/charRNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
 </a>
 
-<a href="https://github.com/josejailson/cartpole">
+<a style="flex: 1;" href="https://github.com/josejailson/cartpole">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
 </a>
 
 
 ## Academic projects
 
-<a href="https://github.com/josejailson/opticsCNN">
+<a style="flex: 1;" href="https://github.com/josejailson/opticsCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
 </a>
 
