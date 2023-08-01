@@ -23,48 +23,48 @@
 </a>
 
 <a href="https://github.com/josejailson/fastapi">
-  <img align="center" height="50%" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
+  <img align="center" height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
 
   
 ## Data analytics
 
 <a href="https://github.com/josejailson/HumanResource">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
 </a>  
 
 <a href="https://github.com/josejailson/customer-churn">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/credit_risk">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/PowerBI">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
+  <img align="center" height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
 
 
 ## Deep learning
 
 <a href="https://github.com/josejailson/timeseries">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/charRNN">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=charRNN&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/cartpole">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=cartpole&theme=dracula" />
 </a>
 
 
 ## Academic projects
 
 <a href="https://github.com/josejailson/opticsCNN">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
+  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=opticsCNN&theme=dracula" />
 </a>
 
  
