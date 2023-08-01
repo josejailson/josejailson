@@ -30,19 +30,19 @@
 ## Data analytics
 
 <a href="https://github.com/josejailson/HumanResource">
-  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
+  <img align="center"  height="35%" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
 </a>  
 
 <a href="https://github.com/josejailson/customer-churn">
-  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
+  <img align="center"  height="35%" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/credit_risk">
-  <img align="center"  height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
+  <img align="center"  height="35%" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
 
 <a href="https://github.com/josejailson/PowerBI">
-  <img align="center" height="45%" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
+  <img align="center" height="35%" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
 
 
