@@ -18,12 +18,12 @@
   
 ## MLOps
   
-<a style="flex: 1;" href="https://github.com/josejailson/distilBERT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
+<a href="https://github.com/josejailson/distilBERT">
+  <img style="flex: 1;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
 </a>
 
-<a style="flex: 1;" href="https://github.com/josejailson/fastapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
+<a href="https://github.com/josejailson/fastapi">
+  <img style="flex: 1;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=fastapi&theme=dracula" />
 </a>
 
   
