@@ -13,10 +13,10 @@
 
  <div>
   
-### Checkout some of my latest projects
+## Checkout some of my latest projects
 
   
-#### MLOps
+### MLOps
   
 <a href="https://github.com/josejailson/distilBERT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=distilBERT&theme=dracula" />
@@ -27,7 +27,7 @@
 </a>
 
   
-#### Data analytics
+### Data analytics
 
 <a href="https://github.com/josejailson/HumanResource">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
@@ -46,7 +46,7 @@
 </a>
 
 
-#### Deep learning
+### Deep learning
 
 <a href="https://github.com/josejailson/timeseries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=timeseries&theme=dracula" />
