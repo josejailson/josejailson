@@ -30,19 +30,19 @@
 ## Data analytics
 
 <a style="flex: 1;" href="https://github.com/josejailson/HumanResource">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
+  <img style="flex: 1;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=HumanResource&theme=dracula" />
 </a>  
 
 <a style="flex: 1;" href="https://github.com/josejailson/customer-churn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
+  <img style="flex: 1;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=customer-churn&theme=dracula" />
 </a>
 
 <a style="flex: 1;" href="https://github.com/josejailson/credit_risk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
+  <img style="flex: 1;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=credit_risk&theme=dracula" />
 </a>
 
 <a style="flex: 1;" href="https://github.com/josejailson/PowerBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
+  <img style="flex: 1;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejailson&repo=PowerBI&theme=dracula" />
 </a>
 
 ## Deep learning
